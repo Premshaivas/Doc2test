@@ -1,0 +1,6 @@
+{
+  "name": "Doc2Test Guardian",
+  "description": "Transform requirements into tested, traceable, and verified API behavior.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

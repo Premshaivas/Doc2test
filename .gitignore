@@ -1,0 +1,22 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+
+# Pytest
+.pytest_cache/
+
+# Environment
+.env
+
+# Bob agent rules (local only)
+.bob/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Frontend
+frontend/node_modules/
